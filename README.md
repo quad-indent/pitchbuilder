@@ -2,6 +2,8 @@
 
 The aim of this project is to help the user improve their pitch recognition by having them replicate the pitch of the note they hear being played, which then is recorded and compared against the played note's pitch
 
+![image](https://github.com/Jan-bog/pitch-trainer/assets/119438108/642d2297-c6cc-4327-947b-f51ca04550ac)
+
 # Usage
 
 The bulk of the functionality lies within trainie.py, with the other modules handling recognition, producing the pitch, etc.
