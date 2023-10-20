@@ -71,7 +71,7 @@ class Winda(QMainWindow):
         self.pixMap = QPixmap(self.lightz[1]).scaled(32, 32)
         self.pitchMap = QPixmap(self.lightz[1]).scaled(32, 32)
 
-        self.setWindowTitle("My window")
+        self.setWindowTitle("Pitch Trainer")
         self.inputDevices = self.soundProcessorRef.getInputDevices()
         self.outputDevices = None
         self.label = QLabel()
