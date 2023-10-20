@@ -113,10 +113,10 @@ class Winda(QMainWindow):
         self.grid.addWidget(self.randomInstrCheckBox, 5, 5, 1, 1, Qt.AlignLeft | Qt.AlignBottom)
 
         self.grid.addWidget(self.signalInLabel, 2, 4, 1, 1, Qt.AlignCenter)
-        self.grid.addWidget(self.signalInLabelLabel, 1, 4, 1, 1, Qt.AlignLeft | Qt.AlignBottom)
+        self.grid.addWidget(self.signalInLabelLabel, 1, 4, 1, 1, Qt.AlignCenter | Qt.AlignBottom)
 
         self.grid.addWidget(self.signalPitchLabel, 2, 5, 1, 1, Qt.AlignCenter)
-        self.grid.addWidget(self.signalPitchLabelLabel, 1, 5, 1, 1, Qt.AlignLeft | Qt.AlignBottom)
+        self.grid.addWidget(self.signalPitchLabelLabel, 1, 5, 1, 1, Qt.AlignCenter | Qt.AlignBottom)
 
         self.grid.addWidget(self.instrumentComboBoxLabel, 5, 0, 1, 1, Qt.AlignLeft | Qt.AlignBottom)
 
