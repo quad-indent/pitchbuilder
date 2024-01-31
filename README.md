@@ -1,8 +1,8 @@
-# pitch-trainer
+# pitchbuilder
 
 The aim of this project is to help the user improve their pitch recognition by having them replicate the pitch of the note they hear being played, which then is recorded and compared against the played note's pitch
 
-![image](https://github.com/Jan-bog/pitch-trainer/assets/119438108/642d2297-c6cc-4327-947b-f51ca04550ac)
+![image](https://github.com/quad-indent/pitchbuilder/assets/119438108/642d2297-c6cc-4327-947b-f51ca04550ac)
 
 # Usage
 
@@ -25,5 +25,5 @@ Contributions are always welcome, **ESPECIALLY** if you have an instrument and w
 
 ## Installation
 
-1. Navigate to the latest executable at https://github.com/Jan-bog/pitch-trainer/releases
+1. Navigate to the latest executable at https://github.com/quad-indent/pitchbuilder/releases
 2. Unzip the files and launch trainie.exe! Make sure the assetz folder is next to the executable
